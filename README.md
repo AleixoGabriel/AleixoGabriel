@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi 👋, I'm Gabriel Aleixo
 
-<!--
-**AleixoGabriel/AleixoGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Mid-Level Systems Analyst | Java & SpringBoot**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+I specialized in **software development**, **API architecture**.I develop robust solutions using **Java**, build and evolve **REST APIs**, and design **AI skills** and **prompt engineering** workflows. Collaborating closely with engineering teams, I translate complex business needs into high-quality technical implementations.My expertise extends to analyzing and validating **OpenAPI** and **AsyncAPI** specifications, defining **technical standards**, and architecting **integrations**. I am fully committed to ensuring the **quality**, **security**, and **scalability** of enterprise-grade APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/AleixoGabriel">
+    <img src="https://img.shields.io/badge/GitHub-AleixoGabriel-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/negoaleixo">
+    <img src="https://img.shields.io/badge/Instagram-negoaleixo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielaleixoo/"> 
+    <img src= "https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" />  Gabriel Aleixo
+  </a>
+
+</p>
+
+---
+
+## 🧠 What I do
+
+- 🏗️ Enterprise Java & Spring Boot applications
+- ⚡ High-quality & scalable REST APIs
+- 🤖 AI skills & prompt engineering workflows
+- 🧩 Technical standards & system integrations
+- 🔐 OpenAPI & AsyncAPI specifications
+- 💳 Translating complex business needs into code
+- 📊 Security, quality & scalability validation
+- 🎓 Collaborative engineering & team standards
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?)
+
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AleixoGabriel&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleixoGabriel&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Lines of code without purpose are just text; real software solves real problems.  
+> Coding the present with a sharp focus on future scalability."_
+
+---
+
+⭐  Thank you for taking the time to visit.
+🤝 Always open to collaborations, partnerships, and cool ideas
