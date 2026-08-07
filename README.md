@@ -11,13 +11,13 @@ I specialized in **software development**, **API architecture**.I develop robust
 
 <p align="left">
   <a href="https://github.com/AleixoGabriel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="https://instagram.com/negoaleixo">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gabrielaleixoo/"> 
-    <img src= "https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src= "https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
 </p>
@@ -53,7 +53,7 @@ I specialized in **software development**, **API architecture**.I develop robust
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AleixoGabriel&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleixoGabriel&layout=compact&theme=tokyonight" />
 </p>
 
