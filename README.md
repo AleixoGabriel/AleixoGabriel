@@ -11,13 +11,13 @@ I specialized in **software development**, **API architecture**.I develop robust
 
 <p align="left">
   <a href="https://github.com/AleixoGabriel">
-    <img src="https://img.shields.io/badge/GitHub-AleixoGabriel-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/negoaleixo">
-    <img src="https://img.shields.io/badge/Instagram-negoaleixo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gabrielaleixoo/"> 
-    <img src= "https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" />  Gabriel Aleixo
+    <img src= "https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
 </p>
